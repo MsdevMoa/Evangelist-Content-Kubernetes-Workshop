@@ -12,9 +12,6 @@
 	- `kubectl exec -it <pod-name> -- /bin/bash`
 - **NOTE:** More coach material needed for Azure Monitor.
 	- For now see *Learning Resources* in Student Guide for links.
-- **NOTE:** More coach material needed for Kibana.
-	- For now see *Learning Resources* in Student Guide for links.
-
 
 
 
