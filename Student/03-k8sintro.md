@@ -36,4 +36,8 @@ Once the cluster is running:
 1. Show that it is using basic networking (kubenet)
 
 ## Learning Resources:
-- Be sure to review:  https://docs.microsoft.com/en-us/azure/aks/availability-zones
+* [Quickstart: Deploy an Azure Kubernetes Service cluster using the Azure CLI](
+https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough)
+* [Kubectl Cheat Sheat](  
+https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
+* [Be sure to review: Availability Zones](https://docs.microsoft.com/en-us/azure/aks/availability-zones)

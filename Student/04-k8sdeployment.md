@@ -53,6 +53,9 @@ In this challenge we need to get our application up and running in Kubernetes. W
 1. The `/speakers` and `/sessions` pages display speakers and sessions respectively, not just blank pages.
 
 ## Learning Resources
+* [Kubernetes Deployments](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
+* [Kubernetes Service](https://kubernetes.io/docs/concepts/services-networking/service/)
 * [Kubernetes Resource requests](https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/#requests-and-limits)
 * [Kubernetes Service Types](https://kubernetes.io/docs/concepts/services-networking/service/#publishing-services-service-types)
-* [kubectl cheat sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
+* [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
+* [Kubernetes: Get a Shell to a Running Container](https://kubernetes.io/docs/tasks/debug-application-cluster/get-shell-running-container/)

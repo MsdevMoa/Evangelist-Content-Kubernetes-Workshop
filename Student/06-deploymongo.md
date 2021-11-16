@@ -19,3 +19,7 @@ In this challenge we'll be installing MongoDB into our cluster.
 
 1. MongoDB is installed and run in our cluster
 1. The `mongo --version` command can be run in a pod and shown to work.
+
+## Learning Resources
+* [Official MongoDB container image](https://hub.docker.com/_/mongo)
+* [Docker and MongoDB](https://www.mongodb.com/compatibility/docker)

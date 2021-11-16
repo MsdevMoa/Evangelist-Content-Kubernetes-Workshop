@@ -81,6 +81,7 @@ In this challenge we will be creating Azure data disks and using the Kubernetes 
 1. Stop and restart the MongoDB pod and make sure the data wasn't lost.
 1. Verify that this new MongoDB instance and its data are used in the application.
 
-
-## Extra Credit
-Discuss with your coach what would happen if the Node running the MongoDB pod were to crash or be shut down.  Would Kubernetes be able to re-deploy the pod on a different node?  How do availability zones play into this?
+## Learning Resources
+* [Dynamically create and use a persistent volume with Azure disks in Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/aks/azure-disks-dynamic-pv)
+* [Kubernetes Persistent Volume Claims](https://kubernetes.io/docs/concepts/storage/persistent-volumes/#persistentvolumeclaims)
+* [Kubernetes Claims as Volumes](https://kubernetes.io/docs/concepts/storage/persistent-volumes/#persistentvolumeclaims)

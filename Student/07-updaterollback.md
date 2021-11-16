@@ -46,3 +46,8 @@ In this challenge you'll be deploying a v2 of the FabMedical application to your
 1. You've upgraded content-web as a rolling update.
 1. You've rolled back content-web.
 1. You've upgraded both content-web and content-api as a blue/green deployment.
+
+## Learning Resources
+* [Updating a Deployment](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#updating-a-deployment)
+* [Common Kubectl Operations (including watch)](https://kubernetes.io/docs/reference/kubectl/overview/#examples-common-operations)
+* [Rolling Back to a Previous Revision](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#rolling-back-to-a-previous-revision)

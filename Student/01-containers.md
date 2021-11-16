@@ -49,4 +49,5 @@ The first step in our journey will be to take our application and package it as 
 - <https://nodejs.org/en/docs/guides/nodejs-docker-webapp/>
 - <https://buddy.works/guides/how-dockerize-node-application>
 - <https://www.cuelogic.com/blog/why-and-how-to-containerize-modern-nodejs-applications>
+- <https://docs.docker.com/network/bridge>
 
