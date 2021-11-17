@@ -29,5 +29,6 @@ In this challenge you will learn how to view application logs and trouble-shoot 
 3. Show Azure Monitor working.
 
 ## Learning Resources
-- Azure Monitoring for Containers:
-    - <https://docs.microsoft.com/en-us/azure/azure-monitor/insights/container-insights-overview>
+* [Azure Monitoring for Containers](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/container-insights-overview)
+* [Enable monitoring from portal](https://docs.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-enable-existing-clusters#enable-from-azure-monitor-in-the-portal)
+* [Enable using Azure CLI](https://docs.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-enable-existing-clusters#enable-using-azure-cli)
